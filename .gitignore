@@ -6,3 +6,9 @@ geckodriver
 
 # Ignore cache
 __pycache__
+
+# Ignore json line
+*.jl
+
+# Ignore log file
+*.log
